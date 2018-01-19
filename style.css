@@ -35,6 +35,14 @@ a{
 	overflow: hidden;
 }
 
+span.field{
+	width: 50%;
+
+}
+span.field input{
+	
+	float: right;
+}
 .bgColor{
 	width: 100vw;
 	height: 100vh;
