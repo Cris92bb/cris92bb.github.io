@@ -42,6 +42,7 @@ div.field{
 div.field input{
 
 	float: right;
+	height: 10px;
 }
 .bgColor{
 	width: 100vw;
