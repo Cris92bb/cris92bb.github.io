@@ -35,12 +35,12 @@ a{
 	overflow: hidden;
 }
 
-span.field{
+div.field{
 	width: 50%;
 
 }
-span.field input{
-	
+div.field input{
+
 	float: right;
 }
 .bgColor{
